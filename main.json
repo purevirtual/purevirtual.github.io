@@ -26,6 +26,12 @@
             "date": "2017-07-03",
             "tags": "edc",
             "path": "edc/up-business/template.html"
+        },
+        {
+            "title": "yii2-webApplication阅读",
+            "date": "2020-06-16",
+            "tags": "yii2",
+            "path": "edc/up-business/yii2-webApplication.html"
         }
     ],
     "pages": []
