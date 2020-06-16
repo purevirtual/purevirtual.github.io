@@ -94,7 +94,7 @@
             "path": "yii2/10-yii2中集成富文本编辑器.html"
         },
         {
-            "title": "11-yii2-tracelog",
+            "title": "yii2-tracelog",
             "date": "2017-03-16",
             "tags": "yii2",
             "path": "yii2/11-yii2-tracelog.html"
@@ -200,6 +200,12 @@
             "date": "2019-05-01",
             "tags": "db,es",
             "path": "db/9999-1-FST.html"
+        },
+        {
+            "title": "pyspider初探",
+            "date": "2018-02-12",
+            "tags": "spider,pyspider",
+            "path": "spider/pyspider.html"
         }
     ],
     "pages": []
