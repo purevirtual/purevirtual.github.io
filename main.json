@@ -6,26 +6,26 @@
         {
             "title": "Hello, github pages",
             "date": "2016-06-01",
-            "tags": "",
-            "path": "hello.html"
+            "tags": "test",
+            "path": "test/hello.html"
         },
         {
             "title": "Test, github pages",
             "date": "2017-04-29",
-            "tags": "",
-            "path": "test.html"
+            "tags": "test",
+            "path": "test/test.html"
         },
         {
             "title": "Yii2-audit",
             "date": "2017-04-30",
-            "tags": "",
-            "path": "yii2-audit.html"
+            "tags": "yii2,audit",
+            "path": "yii2/yii2-audit.html"
         },
         {
             "title": "Up-Business",
             "date": "2017-07-03",
-            "tags": "",
-            "path": "up-business/template.html"
+            "tags": "edc",
+            "path": "edc/up-business/template.html"
         }
     ],
     "pages": []
