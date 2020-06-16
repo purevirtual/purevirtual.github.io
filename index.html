@@ -162,7 +162,7 @@ $(document).ready(function() {
                     var posts = data.posts;
                     var tf = function() {
                         for (var i = 0; i < posts.length; ++i) {
-                            var tmp = posts[i].tags.split(" ");
+                            var tmp = posts[i].tags.split(",");
                             for (var j = 0; j < tmp.length; ++j) {
                                 if (tmp[j].length == 0)
                                     continue;
@@ -188,12 +188,12 @@ $(document).ready(function() {
                     var group = [{"name": "#"+tag}];
                     var posts = [];
                     for (var i = 0; i < data.posts.length; ++i) {
-                        var tmp = data.posts[i].tags.split(" ");
+                        var tmp = data.posts[i].tags.split(",");
                         if (tmp.indexOf(tag) != -1)
                             posts.push(data.posts[i]);
                     }
                     for (var i = 0; i < data.pages.length; ++i) {
-                        var tmp = data.pages[i].tags.split(" ");
+                        var tmp = data.pages[i].tags.split(",");
                         if (tmp.indexOf(tag) != -1)
                             posts.push(data.pages[i]);
                     }
