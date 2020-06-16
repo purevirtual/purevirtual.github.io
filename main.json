@@ -206,6 +206,12 @@
             "date": "2018-02-12",
             "tags": "spider,pyspider",
             "path": "spider/pyspider.html"
+        },
+        {
+            "title": "svg字体反爬在baike中的应用",
+            "date": "2019-06-26",
+            "tags": "spider,svg",
+            "path": "spider/svg字体反爬在baike中的应用.html"
         }
     ],
     "pages": []
