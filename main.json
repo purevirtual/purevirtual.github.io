@@ -1,7 +1,7 @@
 {
     "name": "老杨技术录",
     "number_of_posts_per_page": 7,
-    "disqus_shortname": "",
+    "disqus_shortname": "老杨",
     "posts": [
         {
             "title": "Hello, github pages",
@@ -34,55 +34,55 @@
             "path": "yii2/0-yii2-webApplication.html"
         },
         {
-            "title": "1-yii2-集成echarts做可视化展示",
+            "title": "yii2-集成echarts做可视化展示",
             "date": "2017-02-10",
             "tags": "yii2",
             "path": "yii2/1-yii2-集成echarts做可视化展示.html"
         },
         {
-            "title": "2-yii2-gii生成代码",
+            "title": "yii2-gii生成代码",
             "date": "2016-12-04",
             "tags": "yii2",
             "path": "yii2/2-yii2-gii生成代码.html"
         },
         {
-            "title": "3-yii2-DataProvider",
+            "title": "yii2-DataProvider",
             "date": "2017-10-27",
             "tags": "yii2",
             "path": "yii2/3-yii2-DataProvider.html"
         },
         {
-            "title": "4-yii2-queryData",
+            "title": "yii2-queryData",
             "date": "2018-01-15",
             "tags": "yii2",
             "path": "yii2/4-yii2-queryData.html"
         },
         {
-            "title": "5-yii2-url-backslash",
+            "title": "yii2-url-backslash",
             "date": "2018-02-11",
             "tags": "yii2",
             "path": "yii2/5-yii2-url-backslash.html"
         },
         {
-            "title": "6-yii2-rateLimiter在业务中的实践",
+            "title": "yii2-rateLimiter在业务中的实践",
             "date": "2018-10-12",
             "tags": "yii2",
             "path": "yii2/6-yii2-rateLimiter在业务中的实践.html"
         },
         {
-            "title": "7-yii2-AR哲学",
+            "title": "yii2-AR哲学",
             "date": "2017-01-13",
             "tags": "yii2",
             "path": "yii2/7-yii2-AR哲学.html"
         },
         {
-            "title": "8-yii2中audit的使用",
+            "title": "yii2中audit的使用",
             "date": "2018-09-20",
             "tags": "yii2",
             "path": "yii2/8-yii2中audit的使用.html"
         },
         {
-            "title": "9-yii2依赖注入",
+            "title": "yii2依赖注入",
             "date": "2016-11-18",
             "tags": "yii2",
             "path": "yii2/9-yii2依赖注入.html"
@@ -104,6 +104,102 @@
             "date": "2018-03-16",
             "tags": "yii2",
             "path": "yii2/yii2-batchQuery.html"
+        },
+        {
+            "title": "canal使用调研",
+            "date": "2019-04-15",
+            "tags": "db,canal",
+            "path": "db/0-canal使用.html"
+        },
+        {
+            "title": "pt-online-schema-change",
+            "date": "2017-06-01",
+            "tags": "db,mysql",
+            "path": "db/0-pt-online-schema-change.html"
+        },
+        {
+            "title": "mysql-triggers的一次事故报告",
+            "date": "2018-04-11",
+            "tags": "db,mysql",
+            "path": "db/1-mysql-triggers.html"
+        },
+        {
+            "title": "mysql Cardinality",
+            "date": "2018-06-14",
+            "tags": "db,mysql",
+            "path": "db/2-mysql-Cardinality.html"
+        },
+        {
+            "title": "0-es调研学习",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/0-es调研学习.html"
+        },
+        {
+            "title": "1-es接口和阿里云对接调研",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/1-es接口和阿里云对接调研.html"
+        },
+        {
+            "title": "2-yii2和aliyun-es对接",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/2-yii2和aliyun-es对接.html"
+        },
+        {
+            "title": "3-es实测",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/3-es实测.html"
+        },
+        {
+            "title": "4-es在ether的架构和接入",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/4-es在ether的架构和接入.html"
+        },
+        {
+            "title": "5-es分词",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/5-es分词.html"
+        },
+        {
+            "title": "6-es自定义score函数",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/6-es自定义score函数.html"
+        },
+        {
+            "title": "7-es-ingestNode",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/7-es-ingestNode.html"
+        },
+        {
+            "title": "8-es-keyword-normalizer",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/8-es-keyword-normalizer.html"
+        },
+        {
+            "title": "9-es-alias",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/9-es-alias.html"
+        },
+        {
+            "title": "9999-0-es倒排索引技术原理",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/9999-0-es倒排索引技术原理.html"
+        },
+        {
+            "title": "9999-1-FST",
+            "date": "2019-05-01",
+            "tags": "db,es",
+            "path": "db/9999-1-FST.html"
         }
     ],
     "pages": []
