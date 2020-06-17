@@ -2,6 +2,7 @@
 ```
 框架gin的学习 可能会对比一下beego
 ```
+[TOC]
 ## gin基础
 https://segmentfault.com/a/1190000013297625
 
