@@ -132,73 +132,73 @@
         {
             "title": "0-es调研学习",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/0-es调研学习.html"
         },
         {
             "title": "1-es接口和阿里云对接调研",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/1-es接口和阿里云对接调研.html"
         },
         {
             "title": "2-yii2和aliyun-es对接",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/2-yii2和aliyun-es对接.html"
         },
         {
             "title": "3-es实测",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/3-es实测.html"
         },
         {
             "title": "4-es在ether的架构和接入",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/4-es在ether的架构和接入.html"
         },
         {
             "title": "5-es分词",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/5-es分词.html"
         },
         {
             "title": "6-es自定义score函数",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/6-es自定义score函数.html"
         },
         {
             "title": "7-es-ingestNode",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/7-es-ingestNode.html"
         },
         {
             "title": "8-es-keyword-normalizer",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/8-es-keyword-normalizer.html"
         },
         {
             "title": "9-es-alias",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/9-es-alias.html"
         },
         {
             "title": "9999-0-es倒排索引技术原理",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/9999-0-es倒排索引技术原理.html"
         },
         {
             "title": "9999-1-FST",
             "date": "2019-05-01",
-            "tags": "db,es",
+            "tags": "db,es,search",
             "path": "db/9999-1-FST.html"
         },
         {
@@ -216,13 +216,13 @@
         {
             "title": "swoole学习",
             "date": "2019-11-07",
-            "tags": "协程,swoole",
+            "tags": "coroutine,swoole",
             "path": "swoole/swoole.html"
         },
         {
             "title": "swoft学习",
             "date": "2020-02-27",
-            "tags": "协程,swoole,swoft",
+            "tags": "coroutine,swoole,swoft",
             "path": "swoole/swoft.html"
         },
         {
@@ -236,6 +236,12 @@
             "date": "2020-03-01",
             "tags": "go,gin",
             "path": "go/gin.html"
+        },
+        {
+            "title": "opensearch的yii2搜索客户端设计和实现",
+            "date": "2018-06-06",
+            "tags": "opensearch,yii2,search",
+            "path": "db/opensearch-client.html"
         }
     ],
     "pages": []
