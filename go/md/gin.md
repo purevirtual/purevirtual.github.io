@@ -1,26 +1,26 @@
 # gin-系列学习
 ```
-框架gin的学习 可能会对比一下beego
+框架gin的学习 对比一下beego
 ```
 [TOC]
 ## gin基础
-https://segmentfault.com/a/1190000013297625
+[https://segmentfault.com/a/1190000013297625](!https://segmentfault.com/a/1190000013297625)
 
 ### go的包管理
 好消息是govendor这个管理插件可以有效解决这个
-https://www.jianshu.com/p/25577a6cd5cc
-https://www.jianshu.com/p/4e699ff478a5
+[https://www.jianshu.com/p/25577a6cd5cc](!https://www.jianshu.com/p/25577a6cd5cc)
+[https://www.jianshu.com/p/4e699ff478a5](!https://www.jianshu.com/p/4e699ff478a5)
 
 #### go的管理包的一些问题
-因为中美关系问题 现在vpn是越来越难了 只好使用vultr机器来做了
+如果厂子不提供代理的话，强烈推荐自己买个vpn,不然很多外面的库没法用
 
 ### 之前的关于gin 框架的学习
 - 看了go的各种框架之间的评价 以及 使用情况 
 - 目前go框架极多 gin / beego / echo 等 每个star都过万 至少有6个以上的框架
 - 从目前的发展趋势来 go倾向于不用传统的完整的mvc 可能不提供自带的ORM等一些工具 转而通过 中间件 Middleware 来提供一种功能 可以自由的插入需要的各种组件
 
-1. https://geektutu.com/post/quick-go-gin.html -- 中间件之前的部分
-2. https://www.cnblogs.com/xielideboke/p/golang.html -- 中间件之后的部分
+1. [https://geektutu.com/post/quick-go-gin.html](!https://geektutu.com/post/quick-go-gin.html) -- 中间件之前的部分
+2. [https://www.cnblogs.com/xielideboke/p/golang.html](!https://www.cnblogs.com/xielideboke/p/golang.html) -- 中间件之后的部分
 
 ### gin初探
 1. 看起来是为api设计的
@@ -35,5 +35,6 @@ https://www.jianshu.com/p/4e699ff478a5
 1. 渲染内置：原生支持JSON，XML和HTML的渲染。
 
 ### Gin总结
-高效 面向Api框架 重中间件
-算是面向性能的高效服务器框架
+1. 高效 面向Api框架 重中间件
+1. 算是面向性能的高效服务器框架
+1. 还是“简单”了一些，对比php,java中的大框架来说功能没那么全，很多东西需要二次开发或者去找第三方的解决方案
