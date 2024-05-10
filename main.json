@@ -238,12 +238,6 @@
             "path": "go/md/gin"
         },
         {
-            "title": "gin学习1",
-            "date": "2020-03-02",
-            "tags": "go,gin",
-            "path": "go/md/gin.md"
-        },
-        {
             "title": "opensearch的yii2搜索客户端设计和实现",
             "date": "2018-06-06",
             "tags": "opensearch,yii2,search",
